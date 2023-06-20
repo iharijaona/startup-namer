@@ -1,0 +1,2 @@
+syllables==1.0.7
+python-whois==0.8.0
